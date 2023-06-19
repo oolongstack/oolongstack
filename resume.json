@@ -1,0 +1,107 @@
+{
+  "titleNameMap": {
+    "educationList": "教育背景",
+    "workExpList": "工作经历",
+    "projectList": "项目经历",
+    "skillList": "个人技能",
+    "workList": "个人作品",
+    "aboutme": "自我介绍"
+  },
+  "avatar": {
+    "hidden": true
+  },
+  "profile": {
+    "name": "蔡杰鲁",
+    "email": "oolong.stack@gmail.com",
+    "mobile": "15300650369",
+    "github": "https://github.com/oolongstack",
+    "workExpYear": "2年",
+    "workPlace": "浙江杭州",
+    "positionTitle": "前端工程师"
+  },
+  "educationList": [
+    {
+      "edu_time": ["2018.09.01", "2022.06.30"],
+      "school": "河北东方学院",
+      "major": "软件工程",
+      "academic_degree": "本科"
+    }
+  ],
+  "awardList": [],
+  "workExpList": [
+    {
+      "company_name": "北京计算美学开元科技有限公司",
+      "department_name": "开发部",
+      "work_time": ["2021.08", "2022-06"],
+      "work_desc": "1、公司产品的研发由技术和设计共同组成，宗旨是AI+Design,软件技术与设计相结合。\r\n 前期，我的工作与figma设计软件紧密结合，使用React+TypeScript技术栈，编写figma插件，阅读figma英文文档，解决不可预知的bug。在此期间，我完成了提取节点轮廓、批量生产海报、修改海报文本、图片自动更换等等功能…\r\n2、编写npm库，用于多文件项目的文件夹自动生成，以及自动配置组件骨架，自动生成路由配置。\r\n3、参与到React+TypeScript的微前端子项目常规页面开发，使用React、AntDesign、redux等库"
+    },
+    {
+      "company_name": "温州市鹿城区中津先进科技研究院",
+      "department_name": "交付部",
+      "work_time": ["2022.06", null],
+      "work_desc": "1、工作前期，技术栈主要使用Vue2和vuex，主要开发管理后台、数据大屏等项目，完成页面编写，与UI和后端对接，配合测试修复bug，并完成项目打包，nginx配置编写，项目部署。\r\n 2、之后公司项目技术栈主要是Vue3+pinia，完成移动端电商项目的开发，并兼顾屏幕适配。"
+    }
+  ],
+  "skillList": [
+    {
+      "skill_name": "HTML 和 CSS",
+      "skill_desc": "",
+      "skill_level": 89
+    },
+    {
+      "skill_name": "TypeScript / JavaScript",
+      "skill_level": 90
+    },
+    {
+      "skill_name": "数据可视化",
+      "skill_desc": "数据大屏开发，echarts等库的使用",
+      "skill_level": 90
+    },
+    {
+      "skill_name": "Vue / Nuxt / 前端工程化",
+      "skill_desc": "Vue移动端、后台管理、大屏等应用经验",
+      "skill_level": 80
+    },
+    {
+      "skill_name": "React / Next / 前端工程化",
+      "skill_desc": "大型React项目经验",
+      "skill_level": 80
+    },
+    {
+      "skill_name": "Webpack / Vite / Rollup",
+      "skill_desc": "前端工程化",
+      "skill_level": 80
+    }
+  ],
+  "projectList": [
+    {
+      "project_name": "衢州入园入学",
+      "project_role": "核心开发者",
+      "project_time": "2023.05 - 至今",
+      "project_desc": "面向教育局、学校、区县级教育局用户，提供学区，学校，招生政策，学区招生预警等等功能，提供明了的招生信息。",
+      "project_content": "1. 动态权限路由设计，根据不同权限，由后端返回不同的路由表 \r\n2. 按钮、输入框、操作等权限设计，学校信息由不同权限的用户共同填写，并设计审批功能，低级别用户填写的信息需要被审批 \r\n3. 画学区功能，利用天地图测面工具，手动录入学区的闭合经纬度范围，并提供范围编辑等功能。 \r\n4. 权限设计模块，可管理部门，管理角色，以及管理账号，组成整个权限系统"
+    },
+    {
+      "project_name": "临海紫阳商城",
+      "project_role": "主要开发者",
+      "project_time": "2022.09 - 2022.11 / 2023.02 - 2023.03",
+      "project_desc": "该项目由三端构成，用户端，商家端，管理后台端。用户对商品进行查看、加购、收藏、领取优惠券。商家可申请开店，对商品进行上下架，编辑。管理后台主要显示数据",
+      "project_content": "用户端使用Vue3+pinia开发，并集成了浙里办，主要设计了商城，购物车，个人等模块，支付功能接入了浙江农信。商家端核心功能为商铺申请，商铺商品管理，接入echarts图表对流水信息进行可视化的展示。管理后台的核心主要是对商品，商铺以及优惠券发放的管理，也接入了echarts进行可视化的展示。该项目用户众多，实现了服务器集群"
+    },
+    {
+      "project_name": "Next和Nuxt等个人项目",
+      "project_role": "核心开发者",
+      "project_time": "2022 - 至今",
+      "project_desc": "主要用于学习Next、Nuxt等SSR全栈框架",
+      "project_content": "前端使用Next或Nuxt，数据库使用MySql，ORM使用Prisma，利用框架特性开发全栈应用。"
+    }
+  ],
+  "workList": [],
+  "aboutme": {
+    "aboutme_desc": "😈 能力项：沟通协调能力、执行力\n    自驱型前端工程师，热爱前端，关注前端论坛，前端新技术的爱好者，关注开源开发者 \n 电商项目、数据可视化大屏项目、移动端适配项目、管理后台项目经验丰富\n    "
+  },
+  "theme": {
+    "color": "#2f5785",
+    "tagColor": "#8bc34a"
+  }
+}
